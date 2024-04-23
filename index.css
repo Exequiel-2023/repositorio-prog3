@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin:0;
+       
+}
+body{
+    background: linear-gradient(#3cf291,rgb(255, 255, 255));
+    background-repeat: no-repeat;
+}
+.navbar
+{
+   margin:30px;
+   text-decoration: none;
+}
+
+ul{
+    display: flex;
+    
+    margin: 20px;
+    
+}
+
+textarea{
+  resize: none;
+}
+.form{
+   width: 200px;
+   height: 200px;
+}
